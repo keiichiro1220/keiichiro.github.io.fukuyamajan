@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <title>麻雀 福山市・尾道市 | ノーレート麻雀ならふくやまーじゃん</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="stylesheet" href="../css/normalize.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="../css/responsive.css">
+    <meta
+      name="google-site-verification"
+      content="_A6y7XzsTJtQaPgv2TO-qNkKdMJ6nlkGoaJDH83DV9w"
+    />
+    <meta
+      name="keywords"
+      content="麻雀, 麻雀サークル, ノーレート麻雀サークル, ふくやまーじゃん, 広島県福山市"
+    />
+    <meta
+      name="description"
+      content="当サークルでの活動は、週末に開催する定例会と毎週月曜日の夜に開催される天鳳戦に分かれます。ご都合に合わせて、出来るだけ多く参加できるよう工夫をしながら日々麻雀を楽しめる環境の改良を重ねております。"
+    />
+  </head>
+  <body>
+    <!-- header -->
+    <header>
+      <div class="container">
+        <div class="header-inner">
+          <div class="bg-mask">
+            <h1>
+              福山・尾道ノーレート麻雀サークル<br />
+              <span>～　ふくやまーじゃん　～</span>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- nav -->
+    <nav>
+      <div class="container">
+        <ul class="navbar">
+          <li><a href="../index.html">ホーム</a></li>
+          <li><a href="../introduction/index.html">サークル紹介</a></li>
+          <li><a href="../member/index.html">メンバー・企画</a></li>
+          <li><a href="../rule/index.html">ルール・マナー</a></li>
+          <li><a href="../contact/index.html">お問い合わせ</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- main -->
+    <main>
+      <div class="container">
+        <div class="main-contents">
+          <h3>○サークル活動の紹介</h3>
+          <ul class="introduction">
+            <li>定例会</li>
+            <p>
+              福山市内の雀荘にてノーレート麻雀を定期的に開催しております。開催日は主に金・土・日曜および祝日に行っております。開催日程はグループLINEにて各メンバーが自発的に「○日で募集します」と募集をし、4人以上揃えば開催するという流れになります。また、平日でも4人揃えば開催する事もあります。
+            </p>
+            <li>天鳳戦</li>
+            <p>
+              主に毎週月曜日の夜を定期開催日とし、天鳳卓の「4人打ち東南戦喰赤アリ」にて行っております。月曜日以外でも希望者が集まれば随時開催しております。定例会にはなかなか予定が合わない方も天鳳戦にて楽しんでおります。
+            </p>
+            <li>活動費について</li>
+            <p>
+              サークル費等の活動費は集めておりません。定例会の場合、雀荘の場所代金を参加メンバーで割り勘精算します。例としては、4時間程利用して1人当たり約1000～2000円ぐらいになります。また、利用している雀荘では飲食物の持ち込みは可能となっております。
+            </p>
+            <p class="food">
+              ※雀荘の飲食物の料金は注文された方の個人負担となります。
+            </p>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <!-- footer -->
+    <footer>
+      <div class="container">
+        <strong>(c)ふくやまーじゃん</strong>
+      </div>
+    </footer>
+  </body>
+</html>
