@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  color: #393939;
+  line-height: 2;
+  background-color: #f5f5f5;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightblue;
+  text-decoration: underline;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1170px;
+}
+header {
+  text-align: center;
+}
+.header-inner {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  padding: 60px 20px;
+  background-image: url(../img/IMG_四暗刻.jpg);
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.bg-mask {
+  height: 100%;
+  padding: 0 30px;
+  background: rgba(255, 255, 255, 0.8);
+  background-blend-mode: lighten;
+}
+
+/* ナビゲーション */
+.navbar {
+  list-style-type: none;
+  justify-content: center;
+  background: navy;
+  width: 100%;
+  text-align: center;
+  opacity: 0.8;
+  display: flex;
+}
+.navbar li {
+  width: 20%;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+.navbar li a {
+  display: block;
+  padding: 20px 0;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background: #fff;
+  color: black;
+  opacity: 0.7;
+  transition: all 0.5s;
+}
+/* .menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px;
+  display: none;
+} */
+/* mainエリア */
+.main-contents {
+  background-color: white;
+  padding: 40px;
+}
+.main-contents h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.main-contents li {
+  color: red;
+  margin-top: 15px;
+}
+.top-page {
+  list-style-type: none;
+}
+.sub-info {
+  padding-top: 30px;
+}
+.sub-info p {
+  font-weight: bold;
+}
+.sub-info img {
+  width: 100%;
+  height: 280px;
+  border-radius: 10px;
+}
+
+/* サークル紹介エリア */
+.introduction {
+  padding-left: 20px;
+}
+.food {
+  color: blue;
+  font-size: 18px;
+}
+
+/* メンバー・企画エリア */
+.member {
+  padding-left: 20px;
+}
+.member li {
+  color: red;
+}
+/* ルール・マナーエリア */
+.manners {
+  padding: 0 0 10px 30px;
+  background: #e0ffff;
+}
+.manners li {
+  color: black;
+}
+.opinion {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  background: pink;
+  opacity: 0.9;
+}
+.last {
+  text-align: center;
+  padding: 20px 0 30px 0;
+}
+.last h3 {
+  color: red;
+}
+.last p {
+  font-weight: bold;
+}
+
+/* メンバー募集エリア */
+.contact {
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: pink;
+  text-align: center;
+  opacity: 0.9;
+}
+.circle {
+  padding: 5px 0 20px 30px;
+  background: #e0ffff;
+}
+.circle li {
+  color: black;
+}
+/* footerエリア */
+footer {
+  text-align: center;
+  background: #323135;
+  color: white;
+  font-size: large;
+  padding: 20px 0;
+}
